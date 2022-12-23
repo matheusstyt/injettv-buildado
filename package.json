@@ -1,0 +1,22 @@
+{
+  "name": "injettv-comentais",
+  "version": "1.0.0",
+  "description": "novo injettv em vuejs[",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "matheus20galdino@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "debug": "^4.3.4",
+    "express": "^4.18.2",
+    "node-windows": "^1.0.0-beta.8"
+  },
+  "devDependencies": {
+    "compression": "^1.7.4",
+    "open": "^8.4.0"
+  }
+}
