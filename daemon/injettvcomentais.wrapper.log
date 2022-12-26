@@ -1,2 +1,18 @@
 2022-12-23 11:45:33 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\simone\Documents\desenvolvimento\injettv-produto\node_modules\node-windows\lib\wrapper.js --file C:\Users\simone\Documents\desenvolvimento\injettv-produto\www --scriptoptions=start --log "InjetTv-Comentais wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
 2022-12-23 11:45:33 - Started 10168
+2022-12-26 14:06:39 - Stopping injettvcomentais.exe
+2022-12-26 14:06:39 - ProcessKill 10168
+2022-12-26 14:06:41 - Found child process: 9608 Name: conhost.exe
+2022-12-26 14:06:41 - Found child process: 8228 Name: node.exe
+2022-12-26 14:06:41 - Stopping process 9608
+2022-12-26 14:06:41 - Send SIGINT 9608
+2022-12-26 14:06:42 - SIGINT to 9608 failed - Killing as fallback
+2022-12-26 14:06:42 - Stopping process 8228
+2022-12-26 14:06:42 - Send SIGINT 8228
+2022-12-26 14:06:42 - SIGINT to 8228 failed - Killing as fallback
+2022-12-26 14:06:42 - Stopping process 10168
+2022-12-26 14:06:42 - Send SIGINT 10168
+2022-12-26 14:06:42 - SIGINT to 10168 failed - Killing as fallback
+2022-12-26 14:06:42 - Finished injettvcomentais.exe
+2022-12-26 14:06:49 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\simone\Documents\desenvolvimento\injettv-produto\node_modules\node-windows\lib\wrapper.js --file C:\Users\simone\Documents\desenvolvimento\injettv-produto\www --scriptoptions=start --log "InjetTv-Comentais wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-12-26 14:06:49 - Started 17560
