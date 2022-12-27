@@ -1,7 +1,7 @@
 
 const app = require('./app')
 const http = require('http');
-const port = normalizePort(8086 || '8085');
+const port = normalizePort(8085 || '8086');
 
 app.set('port', port);
 
