@@ -1,3 +1,3 @@
-cd C:\Users\simone\Documents\desenvolvimento\injettv-produto
-
+cd C:\Users\mathe\Documents\desenvolvimento\injettv-buildado
+buildado
 node install_services.js

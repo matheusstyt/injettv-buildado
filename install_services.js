@@ -6,7 +6,7 @@ name:'InjetTv-Comentais',
 //Descricao que vai aparecer no Gerenciamento de serviço do Windows
 description: 'InjetTV - Comentais',
 //caminho absoluto do seu script
-script: 'C:\\Users\\simone\\Documents\\desenvolvimento\\injettv-produto\\www',
+script: 'C:\\Users\\mathe\\Documents\\desenvolvimento\\injettv-buildado\\www',
 scriptOptions: 'start'
 });
 svc.on('install',function(){
