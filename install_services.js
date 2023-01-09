@@ -2,9 +2,9 @@ var Service = require('node-windows').Service;
 // Criando um novo objeto do Serviço
 var svc = new Service({
 //Nome do servico
-name:'InjetTv-Comentais',
+name:'InjetTv 2.0',
 //Descricao que vai aparecer no Gerenciamento de serviço do Windows
-description: 'InjetTV - Comentais',
+description: 'InjetTV - Dashboard IDW',
 //caminho absoluto do seu script
 script: 'C:\\Users\\mathe\\Documents\\desenvolvimento\\injettv-buildado\\www',
 scriptOptions: 'start'
